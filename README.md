@@ -43,7 +43,6 @@ education:
     BA @ University of North Carolina at Charlotte
   ]
 company: Coinbase
-
 fields_of_interests:
   [
     "Web Development",
