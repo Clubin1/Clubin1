@@ -15,7 +15,6 @@
 <p align="center">
 <img src="https://images.ctfassets.net/c5bd0wqjc7v0/5vP0YU5agB4TKDTzAznEMh/8ce49978af713db592d30225e84d8811/1_9LSh5QR4eSK2j5og_WzwvA.gif">
 ---
-
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
