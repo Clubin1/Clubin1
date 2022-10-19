@@ -69,6 +69,7 @@ technical_background:
 </p>
 
 ---
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Clubin1&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
