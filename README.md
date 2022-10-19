@@ -13,7 +13,7 @@
 <h2> 👨🏻‍💻 &nbsp;Where am I now?</h2>
 
 <p align="center">
-<img src="https://images.ctfassets.net/c5bd0wqjc7v0/5vP0YU5agB4TKDTzAznEMh/8ce49978af713db592d30225e84d8811/1_9LSh5QR4eSK2j5og_WzwvA.gif">
+<img src="https://s.yimg.com/ny/api/res/1.2/_VsTCuDQhz2kwn5R1hGIiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/uu/api/res/1.2/ICtVr6XE_bD6nk.XDwPqug--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/c841a4a9eab4dbd0b2884ab1cc80f7ba">
 ---
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
