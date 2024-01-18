@@ -19,15 +19,17 @@ education:
   [
     BA @ University of North Carolina at Charlotte
   ]
-company: Coinbase
+company: Slack
 fields_of_interests:
   [
-    "Web Development",
-    "Frontend Development",
-    "Backend Development",
+    "Infrastructure",
+    "Distributed Systems",
+    "Databases",
+    "Backend",
   ]
 technical_background:
   [
+    "Software Engineer Intern - Slack",
     "Software Engineer Intern - Coinbase",
     "Software Engineer Intern - DocuSign",
     "Software Engineer Intern - LendingTree",
