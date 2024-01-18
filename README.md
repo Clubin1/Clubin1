@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome.&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Looking to Recruit? Let's Connect! 
-</h1>
-
 <p align="center">
 
 </p>
